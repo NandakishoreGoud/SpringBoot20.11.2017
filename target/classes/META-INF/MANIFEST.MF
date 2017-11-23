@@ -1,10 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: Java Brains Course API
+Implementation-Title: course-api-data
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: cts1
-Implementation-Vendor-Id: io.javabrains.springbootquickstart
+Implementation-Vendor-Id: io.javabrains
 Build-Jdk: 1.8.0_141
-Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Implementation-URL: http://projects.spring.io/spring-boot/course-api-d
+ ata/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
